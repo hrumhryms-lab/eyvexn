@@ -1,4 +1,4 @@
-# Basic neutral material for TTS
+# Basic neutral material for Tabletop Simulator
 newmtl default
 Ka 1.000 1.000 1.000
 Kd 0.800 0.800 0.800
